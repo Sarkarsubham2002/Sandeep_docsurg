@@ -13,7 +13,7 @@ def main():
     st.write(description)
 
     # Interactive image
-    st.image("doctor_image.jpg", use_column_width=True, caption="Dr. John Smith")
+    # st.image("doctor_image.jpg", use_column_width=True, caption="Dr. John Smith")
 
 if __name__ == "__main__":
     main()
